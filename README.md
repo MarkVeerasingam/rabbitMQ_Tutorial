@@ -1,5 +1,5 @@
 # rabbitMQ_Tutorial
-Tutorial based off this: https://github.com/MarkVeerasingam/rabbitMQ_Tutorial.git
+Tutorial based off this: https://www.youtube.com/watch?v=0--Ll3WHMTQ
 
 - download docker desktop
 - go on dockerhub and search "rabbit mq", i'm using the version 3.12.10-management
