@@ -22,5 +22,5 @@ http://localhost:8080/api/v1/publish
 }
 
 ## Architecture
-![RabbitMQ Architecture](https://raw.githubusercontent.com/MarkVeerasingam/rabbitMQ_Tutorial/raw/main/RabbitMQ_Architecture.png)
+![RabbitMQ Architecture](https://raw.github.com/MarkVeerasingam/rabbitMQ_Tutorial/raw/main/RabbitMQ_Architecture.png)
 
