@@ -20,3 +20,6 @@ http://localhost:8080/api/v1/publish
     "firstName": "John",
     "lastName": "Doe" 
 }
+
+## Architecture
+![Battery Simulator](https://github.com/MarkVeerasingam/rabbitMQ_Tutorial/RabbitMQ_Architecture.png)
